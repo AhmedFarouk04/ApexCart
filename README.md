@@ -1,4 +1,4 @@
-# ECommerceSolution - README
+# ApexCart - README
 
 ## Overview
 
