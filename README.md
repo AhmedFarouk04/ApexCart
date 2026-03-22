@@ -1,4 +1,4 @@
-# ApexCart - README
+# ApexCart
 
 ## Overview
 
