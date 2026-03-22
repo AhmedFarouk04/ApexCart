@@ -1,4 +1,4 @@
-# ApexCart
+ ApexCart
 ## Overview
 
 This is a full-featured **E-Commerce web application** built with **ASP.NET Core MVC (.NET 8)** using a clean, layered architecture (Clean Architecture / Onion Architecture principles).  
