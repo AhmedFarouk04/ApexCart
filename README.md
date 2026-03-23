@@ -5,7 +5,6 @@ This is a full-featured **E-Commerce web application** built with **ASP.NET Core
 
 The project implements core e-commerce functionalities including product browsing, cart management (guest + authenticated), wishlist, ratings & reviews, secure checkout with **Stripe** payments, user authentication with email verification, and a complete **Admin Dashboard** for managing products, categories, orders, users, ratings, reviews, wishlists, and admin activity logs.
 
-**Repository**: https://github.com/AhmedFarouk04/Ecommerce-aspnet-mvc
 
 ## Key Features
 
